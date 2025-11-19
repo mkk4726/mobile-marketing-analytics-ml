@@ -10,7 +10,7 @@
 
 ## 1. Cookie Cats Retention Dataset
 
-- [링크]((https://www.kaggle.com/code/mursideyarkin/mobile-games-ab-testing-with-cookie-cats))
+- [링크](https://www.kaggle.com/datasets/mursideyarkin/mobile-games-ab-testing-cookie-cats)
 
 ## 2. Mobile User Behavior Dataset (App Usage / Segmentation)
 
